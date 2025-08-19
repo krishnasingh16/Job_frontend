@@ -4,7 +4,6 @@ const FOoter = () => {
   return (
     <footer className="bg-gray-100 text-gray-700 py-6 mt-10 border-t text-2xl font-bold">
       <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center text-sm">
-        {/* Left Side - Logo */}
         <div className="mb-3 md:mb-0">
           <h1 className="font-bold text-lg">Dream <span className="text-[#F83002]">Job</span></h1>
         </div>
